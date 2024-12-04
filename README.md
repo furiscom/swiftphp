@@ -1,6 +1,3 @@
-Berikut adalah file `README.md` untuk proyek Anda:
-
----
 
 # AstraZenith framework
 AstraZenith framework adalah sistem manajemen siswa berbasis web sederhana yang dibangun menggunakan framework PHP minimalis buatan sendiri bernama astrazenith. Proyek ini dirancang untuk mengelola data siswa, laporan, dan absensi secara efektif.
