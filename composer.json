@@ -1,0 +1,20 @@
+{
+    "name": "mfurq/swiftphp",
+    
+        "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+    
+    ,
+    "authors": [
+        {
+            "name": "furiscom",
+            "email": "mfurqanhakim139@unama.ac.id"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^4.3"
+    }
+}
