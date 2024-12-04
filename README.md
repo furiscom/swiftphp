@@ -124,7 +124,7 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 ## 📧 Kontak
 
 Jika Anda memiliki pertanyaan atau saran, hubungi saya di:
-- **Email**: example@example.com
+- **Email**: mfurqanhakim139@unama.ac.id
 - **LinkedIn**: [Profil LinkedIn Anda](https://linkedin.com/in/mfurqanhakim)
 - **GitHub**: [Username GitHub Anda](https://github.com/furiscom)
 
